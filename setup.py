@@ -17,7 +17,7 @@ setuptools.setup(
     name="lambdata-maximematerno",
     version= "0.0.1",
     author="maximematerno"
-    description="A Collection of Data Science helper functions",
+    description="A Collectio of Data Science helper functions",
     long_description= LONG_DESCRIPTION,
     long_description_content_type = "text/markdown",
     url= "https://github.com/maximematerno/lambdata-maximematerno",
