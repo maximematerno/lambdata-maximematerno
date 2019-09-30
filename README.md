@@ -1,2 +1,2 @@
 # lambdata-maximematerno
-A Collectio of Data Science Helper Functions
+A Collection of Data Science Helper Functions
