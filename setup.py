@@ -16,14 +16,14 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="lambdata-maximematerno",
     version= "0.0.1",
-    author="maximematerno"
-    description="A Collectio of Data Science helper functions",
+    author="maximematerno",
+    description="A Collection of Data Science helper functions",
     long_description= LONG_DESCRIPTION,
     long_description_content_type = "text/markdown",
     url= "https://github.com/maximematerno/lambdata-maximematerno",
     packages= setuptools.find_packages(),
     python_requires=">=3.5",
-    install_required= REQUIRED
+    install_required= REQUIRED,
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
