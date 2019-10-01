@@ -3,10 +3,11 @@ import pandas as pd
 import numpy as np
 
 
-class Null_checker:
 
-	def __init__(self, df = df):
-        self.df = 0
+class Null_checker():
+
+	def __init__(self, df):
+		self.df = pd.DataFrame()
 
 	def null(self):
     
